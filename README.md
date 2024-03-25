@@ -16,13 +16,25 @@ Data: The MNIST dataset, a widely used benchmark for image classification, conta
 ![Screenshot 2024-03-24 230510](https://github.com/poojaanbu0/mnist-classification/assets/119390329/d07f1f5d-484d-4f74-9caa-00a63e45ed4b)
 
 ## DESIGN STEPS
+### STEP 1: Import tensorflow and preprocessing libraries.
 
-### STEP 1:
+### STEP 2: Download and load the dataset
 
-### STEP 2:
+### STEP 3: Scale the dataset between it's min and max values
 
-### STEP 3:
+### STEP 4: Using one hot encode, encode the categorical values
 
+### STEP 5: Split the data into train and test
+
+### STEP 6: Build the convolutional neural network model
+
+### STEP 7: Train the model with the training data
+
+### STEP 8: Plot the performance plot
+
+### STEP 9: Evaluate the model with the testing data
+
+### STEP 10: Fit the model and predict the single input
 
 ## PROGRAM
 
